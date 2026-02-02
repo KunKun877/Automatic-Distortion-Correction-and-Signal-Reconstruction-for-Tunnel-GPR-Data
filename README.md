@@ -24,4 +24,3 @@ This project implements an integrated processing workflow to automatically addre
     * **Adaptive Rank Selection:** Selects the optimal damping coefficient ($K \approx 4$) based on Random Matrix Theory (4$\sigma$ rule) to distinguish signal subspaces from the noise floor.
     * **POCS Solver:** Incorporates a Projection Onto Convex Sets (POCS) iterative loop to strictly preserve valid observed data.
 
-## 📂 Repository Structure
